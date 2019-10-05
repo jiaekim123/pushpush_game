@@ -1,0 +1,27 @@
+﻿빌드 시작: 2015-05-26 오후 3:07:03
+     1>2 노드의 "D:\OneDrive\Desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\PushpushGame\PushpushGame.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\JIAE\Documents\Visual Studio 2013\Projects\PushpushGame" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt pushpushgame.cpp
+         pushpushgame.cpp
+     1>d:\onedrive\desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\pushpushgame\turboc.h(81): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : 'getch' 선언을 참조하십시오.
+     1>d:\onedrive\desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\pushpushgame\turboc.h(130): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>d:\onedrive\desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\pushpushgame\pushpushgame.cpp(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 'scanf' 선언을 참조하십시오.
+     1>d:\onedrive\desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\pushpushgame\pushpushgame.cpp(117): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : 'getch' 선언을 참조하십시오.
+     1>d:\onedrive\desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\pushpushgame\pushpushgame.cpp(119): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : 'getch' 선언을 참조하십시오.
+     1>d:\onedrive\desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\pushpushgame\pushpushgame.cpp(171): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _putch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(139) : 'putch' 선언을 참조하십시오.
+     1>d:\onedrive\desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\pushpushgame\pushpushgame.cpp(175): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _putch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(139) : 'putch' 선언을 참조하십시오.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OneDrive\Desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\PushpushGame\Debug\PushpushGame.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\OneDrive\Desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\PushpushGame\Debug\PushpushGame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\OneDrive\Desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\PushpushGame\Debug\PushpushGame.lib" /MACHINE:X86 Debug\pushpushgame.obj
+         PushpushGame.vcxproj -> D:\OneDrive\Desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\PushpushGame\Debug\PushpushGame.exe
+     1>"D:\OneDrive\Desktop\2014 김지애\2014 2학기 수업자료\고급프로그래밍\프로젝트\PushpushGame\PushpushGame.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.05
